@@ -14,6 +14,6 @@ Clone this repo and start `hackPPT.py`, follow the instructions and enjoy :)
 
 ## Python Requirements
 
-- `winreg`, for operating registry
 - `rich`, for colorful printing
 
+install: `pip install rich`
