@@ -1,0 +1,19 @@
+# This project
+local/
+test/
+download/
+
+# IDE based
+.idea/
+.mypy_cache/
+tempCodeRunnerFile.*
+
+# lang based
+*.pyc
+*.pyi
+__pycache__/
+node_modules/
+*.css.map
+
+# others
+*.exe
